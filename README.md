@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phunsup Suwannasophon
 ============================================================================================================================================= 
-I am currently studying in a third-year at Silpakorn University in a major of Computer Science . I am interested in iOS development.  
+I am currently studying in a third-year at Silpakorn University in a major of Computer Science . I am interested in Full Stack development.  
 When My Repositories have (Phunsup's Version) in the end of the name it mean The Repositories is use UIKit but if it doesn't it use SwiftUI.
 
 * 🌍  I'm based in Thailand
