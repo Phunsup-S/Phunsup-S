@@ -4,7 +4,7 @@ I am currently studying in a third-year at Silpakorn University in a major of Co
 When My Repositories have (Phunsup's Version) in the end of the name it mean The Repositories is use UIKit but if it doesn't it use SwiftUI.
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [avg.artvengers@gmail.com](mailto:s.phunsup@gmail.com) , [suwannasophon_p@silpakorn.edu](mailto:suwannasophon_p@silpakorn.edu)
+* ✉️  You can contact me at [s.phunsup@gmail.com](mailto:s.phunsup@gmail.com) , [suwannasophon_p@silpakorn.edu](mailto:suwannasophon_p@silpakorn.edu)
 * 🧠  I'm learning Swift & SwiftUI
 
 
