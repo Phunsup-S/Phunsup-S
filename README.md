@@ -8,7 +8,7 @@ When My Repositories have (Phunsup's Version) in the end of the name it mean The
 * 🧠  I'm learning Swift & SwiftUI
 
 
-<a href="https://www.github.com/artvengers" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/artvengers?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Phunsup-S" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Phunsup-S?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 
@@ -21,4 +21,4 @@ When My Repositories have (Phunsup's Version) in the end of the name it mean The
 
 ### Badges
 
-<a href="https://github.com/artvengers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artvengers&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Phunsup-S" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phunsup-S&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
